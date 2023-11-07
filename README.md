@@ -52,4 +52,4 @@ You can install these dependencies using the instructions provided in the [Insta
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/loan-status-prediction.git
+   git clone https://github.com/najirh/loan_aproval_status/tree/main
