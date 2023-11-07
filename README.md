@@ -53,3 +53,20 @@ You can install these dependencies using the instructions provided in the [Insta
 
    ```bash
    git clone https://github.com/najirh/loan_aproval_status/tree/main
+
+
+   loan-status-prediction/
+│
+├── data/                   # Dataset files
+│
+├── notebooks/              # Jupyter notebooks for data analysis
+│
+├── src/                    # Source code
+│   ├── train_model.py      # Script to train the SVM model
+│   ├── evaluate_model.py   # Script to evaluate model performance
+│   ├── utils.py            # Utility functions
+│
+├── requirements.txt        # List of Python dependencies
+│
+├── README.md               # This README file
+
