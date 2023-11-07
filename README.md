@@ -1,6 +1,6 @@
 # Loan Status Prediction Project
 
-![Project Image](project_image.png)
+![Project Image](Loan_status_prediction.gif)
 
 ## Table of Contents
 
